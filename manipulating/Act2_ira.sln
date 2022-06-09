@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act2_ira", "Act2_ira\Act2_ira.csproj", "{5F1CE5E8-DB0E-4283-B1F3-66523BEC6278}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F1CE5E8-DB0E-4283-B1F3-66523BEC6278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1CE5E8-DB0E-4283-B1F3-66523BEC6278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1CE5E8-DB0E-4283-B1F3-66523BEC6278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1CE5E8-DB0E-4283-B1F3-66523BEC6278}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92B61A95-37D1-4F2F-8BA5-C9E09D4307D1}
+	EndGlobalSection
+EndGlobal
